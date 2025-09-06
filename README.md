@@ -3,8 +3,8 @@ I'm a Unity developer from Tamil Nadu, India. <br>
 I'm working as an Unity Programmer at day job and also a part time Indie game developer. <br>
 I have been learning and working in unity since 2017. <br>
 
-email: contact@mrgreenstudio.com <br>
-website: https://www.mrgreenstudio.com/ <br>
+email: azhagarasan.azhagu@gmail.com <br>
+website: [Azhagarasan Murali](https://azhagarasanmurali.github.io/) <br>
 play store: https://play.google.com/store/apps/dev?id=8960770524070735100 <br>
 
 <!---
